@@ -1,5 +1,7 @@
 # React Infinite Scroller
 
+This is a repo for fixing [#108](https://github.com/danbovey/react-infinite-scroller/issues/108)
+
 [![npm](https://img.shields.io/npm/dt/react-infinite-scroller.svg?style=flat-square)](https://www.npmjs.com/package/react-infinite-scroller)
 [![npm](https://img.shields.io/npm/v/react-infinite-scroller.svg?style=flat-square)](https://www.npmjs.com/package/react-infinite-scroller)
 [![npm](https://img.shields.io/npm/l/react-infinite-scroller.svg?style=flat-square)](https://github.com/danbovey/react-infinite-scroller/blob/master/LICENSE)
