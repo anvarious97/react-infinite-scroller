@@ -436,7 +436,7 @@ InfiniteScroll.propTypes = {
   loader: _propTypes2.default.node,
   loadMore: _propTypes2.default.func.isRequired,
   pageStart: _propTypes2.default.number,
-  forwardedRef: _propTypes2.default.func,
+  forwardedRef: _propTypes2.default.object,
   getScrollParent: _propTypes2.default.func,
   threshold: _propTypes2.default.number,
   useCapture: _propTypes2.default.bool,

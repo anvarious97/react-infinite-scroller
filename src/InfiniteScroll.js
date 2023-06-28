@@ -15,7 +15,7 @@ export class InfiniteScroll extends Component {
     loader: PropTypes.node,
     loadMore: PropTypes.func.isRequired,
     pageStart: PropTypes.number,
-    forwardedRef: PropTypes.func,
+    forwardedRef: PropTypes.object,
     getScrollParent: PropTypes.func,
     threshold: PropTypes.number,
     useCapture: PropTypes.bool,
